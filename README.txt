@@ -9,4 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Website Contents
 
+Here are the files that will be used for the website.
+
 1. index.html
